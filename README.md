@@ -81,7 +81,7 @@
 1. **Delta (Δ)**
    - 1.1 Calculation for a call / put 
    - 1.2 Implementation 
-   - 1.3 Approximations par différences finies
+   - 1.3 Finite Difference Approximations
    - 1.4 Δ-hedging
 
 2. **Gamma (Γ)** 

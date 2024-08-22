@@ -2,13 +2,13 @@
 
 ## Table of contents : 
 
-- [Chapter 1 : Integral Approximation and Bond Pricing](#chapter-1--integral-approximation-and-bond-pricing)
-- [Chapter 2 : Vanilla Options for Black-Scholes Model](#chapter-2--vanilla-options-for-black-scholes-model)
-- [Chapter 3 : Nonlinear Solvers for Bond Yields and Implied Volatility](#chapter-3--nonlinear-solvers-for-bond-yields-and-implied-volatility)
-- [Chapter 4 : Greeks and Hedging](#chapter-4--greeks-and-hedging)
+- [Project 1 : Integral Approximation and Bond Pricing](#project-1--integral-approximation-and-bond-pricing)
+- [Project 2 : Vanilla Options for Black-Scholes Model](#project-2--vanilla-options-for-black-scholes-model)
+- [Project 3 : Nonlinear Solvers for Bond Yields and Implied Volatility](#project-3--nonlinear-solvers-for-bond-yields-and-implied-volatility)
+- [Project 4 : Greeks and Hedging](#project-4--greeks-and-hedging)
 
 
-## Chapter 1 : Integral Approximation and Bond Pricing
+## Project 1 : Integral Approximation and Bond Pricing
 
 1. **Methods for Approximating an Integral**
    - 1.1 Midpoint rule 
@@ -26,7 +26,7 @@
    - 2.3 Convexity 
    - 2.4 Approximation with tolerance threshold
 
-## Chapter 2 : Vanilla Options for Black-Scholes Model
+## Project 2 : Vanilla Options for Black-Scholes Model
 
 1. **Approximation of the Cumulative Distribution Function (cdf) of a Standard Gaussian**
    - 1.1 Zelen & Severo's formula (1964)
@@ -57,7 +57,7 @@
      - 5.2.2 Strips and straps
      - 5.2.3 Strangles
   
-## Chapter 3 : Nonlinear Solvers for Bond Yields and Implied Volatility
+## Project 3 : Nonlinear Solvers for Bond Yields and Implied Volatility
 
 1. **Numerical Methods for Finding a Zero in 1D**
    - 1.1 Bisection method 
@@ -76,7 +76,7 @@
 
 5. **Bootstrapping for finding zero rate curves**
 
-## Chapter 4 : Greeks and Hedging 
+## Project 4 : Greeks and Hedging 
 
 1. **Delta (Δ)**
    - 1.1 Calculation for a call / put 
@@ -107,5 +107,9 @@
    - 5.3 Finite Difference Approximations
    - 5.4 Vanna 
    - 5.5 Volga 
+
+6. **Black-Scholes PDE** 
+   - 6.1 Proof
+   - 6.2 Financial Interpretation and Link with the Greeks
 
 **Appendix : Proof of the formula(☆)**

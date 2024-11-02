@@ -6,6 +6,7 @@
 - [Project 2 : Vanilla Options for Black-Scholes Model](#project-2--vanilla-options-for-black-scholes-model)
 - [Project 3 : Nonlinear Solvers for Bond Yields and Implied Volatility](#project-3--nonlinear-solvers-for-bond-yields-and-implied-volatility)
 - [Project 4 : Greeks and Hedging](#project-4--greeks-and-hedging)
+- [Project 5 : Monte Carlo Methods with Variance Reduction](#project-5--monte-carlo-methods-with-variance-reduction)
 
 
 ## Project 1 : Integral Approximation and Bond Pricing
@@ -113,3 +114,18 @@
    - 6.2 Financial Interpretation and Link with the Greeks
 
 **Appendix : Proof of the formula(☆)**
+
+## Project 5 : Monte Carlo Methods with Variance Reduction
+
+1. **Contextualisation**
+
+2. **The PriceIndex class model**
+
+3. **Monte Carlo Method** 
+
+4. **Variance Reduction**
+   - 4.1 Antithetic variates method
+   - 4.2 Control variates method 
+   - 4.3 Mixing both methods 
+
+5. **Appendix : Proof of the formula(☆)**
